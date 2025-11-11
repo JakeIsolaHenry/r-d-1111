@@ -207,11 +207,11 @@
         }
 
         .linktree.purple {
-            background: linear-gradient(180deg, #d4a5ff 0%, #e8c4ff 100%);
+            background: linear-gradient(180deg, #2c3e50 0%, #34495e 100%);
         }
 
         .linktree.green {
-            background: linear-gradient(180deg, #a8e6cf 0%, #dcedc1 100%);
+            background: linear-gradient(180deg, #4a5568 0%, #718096 100%);
         }
 
         .profile-pic {
@@ -289,13 +289,13 @@
         }
 
         .link-button.highlight-alt2 {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
             color: white;
             font-weight: 600;
         }
 
         .link-button.highlight-alt3 {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            background: linear-gradient(135deg, #4a5568 0%, #718096 100%);
             color: white;
             font-weight: 600;
         }
@@ -311,11 +311,11 @@
         }
 
         .article.purple {
-            background: linear-gradient(180deg, #d4a5ff 0%, #e8c4ff 100%);
+            background: linear-gradient(180deg, #2c3e50 0%, #34495e 100%);
         }
 
         .article.green {
-            background: linear-gradient(180deg, #a8e6cf 0%, #dcedc1 100%);
+            background: linear-gradient(180deg, #4a5568 0%, #718096 100%);
         }
 
         .article.solar {
@@ -425,11 +425,11 @@
         }
 
         .search-chip.alt2:hover {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
         }
 
         .search-chip.alt3:hover {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            background: linear-gradient(135deg, #4a5568 0%, #718096 100%);
         }
 
         .serp {
@@ -443,11 +443,11 @@
         }
 
         .serp.purple {
-            background: linear-gradient(180deg, #d4a5ff 0%, #e8c4ff 100%);
+            background: linear-gradient(180deg, #2c3e50 0%, #34495e 100%);
         }
 
         .serp.green {
-            background: linear-gradient(180deg, #a8e6cf 0%, #dcedc1 100%);
+            background: linear-gradient(180deg, #4a5568 0%, #718096 100%);
         }
 
         .serp.solar {
@@ -482,11 +482,11 @@
         }
 
         .sponsored-badge.alt2 {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
         }
 
         .sponsored-badge.alt3 {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            background: linear-gradient(135deg, #4a5568 0%, #718096 100%);
         }
 
         .serp-result {
@@ -556,15 +556,15 @@
         }
 
         .visit-button.alt2:hover {
-            box-shadow: 0 4px 12px rgba(79, 172, 254, 0.4);
+            box-shadow: 0 4px 12px rgba(44, 62, 80, 0.4);
         }
 
         .visit-button.alt3 {
-            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+            background: linear-gradient(135deg, #4a5568 0%, #718096 100%);
         }
 
         .visit-button.alt3:hover {
-            box-shadow: 0 4px 12px rgba(67, 233, 123, 0.4);
+            box-shadow: 0 4px 12px rgba(74, 85, 104, 0.4);
         }
 
         .stage-label {
