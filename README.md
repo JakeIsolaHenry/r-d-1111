@@ -321,8 +321,8 @@ Creator Monetization
         }
 
         .article.solar {
-            background: linear-gradient(180deg, #ffeaa7 0%, #fdcb6e 100%);
-        }
+              background: white;
+    }
 
         .article-header {
             display: flex;
@@ -453,7 +453,7 @@ Creator Monetization
         }
 
         .serp.solar {
-            background: linear-gradient(180deg, #ffeaa7 0%, #fdcb6e 100%);
+            background: white;
         }
 
         .search-bar {
@@ -1402,16 +1402,16 @@ Creator Monetization
 
                                     <div style="background: white; padding: 15px; border-radius: 15px; margin-bottom: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
                                         <div style="font-size: 12px; color: #666; font-weight: 600; margin-bottom: 12px;">Related searches</div>
-                                        <div style="display: flex; flex-direction: column; gap: 10px;">
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
+                                        <div style="display: flex; flex-direction: column; gap: 6px;">
+                                            <button style="background: #4285F4; color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">
                                                 <span>Solar Panel Installation</span>
                                                 <span>›</span>
                                             </button>
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
+                                            <button style="background: #4285F4; color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">
                                                 <span>Residential Solar Panels Near Me</span>
                                                 <span>›</span>
                                             </button>
-                                            <button style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">
+                                            <button style="background: #4285F4; color: white; border: none; padding: 12px 14px; border-radius: 8px; font-size: 13px; font-weight: 600; text-align: left; display: flex; align-items: center; justify-content: space-between; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">
                                                 <span>Solar Panel Energy Savings</span>
                                                 <span>›</span>
                                             </button>
@@ -1442,7 +1442,7 @@ Creator Monetization
                                         <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">acelenrenovaveis.com.br</div>
                                         <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Macauba: 90,000 more jobs - Aceleri boosts careers</div>
                                         <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Aceleri Renewables will create opportunities for the local economy through bio-diesel. Advancing local development with renewable energy innovation.</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
+                                        <button style="background: #4285F4; color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">Visit Website</button>
                                     </div>
 
                                     <div style="background: white; border-radius: 16px; padding: 16px; margin-bottom: 14px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
@@ -1450,7 +1450,7 @@ Creator Monetization
                                         <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">homeadvisor.com/electrical</div>
                                         <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Just Enter Your Zip Code - Lighting Experts</div>
                                         <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Read reviews, view cost estimates, and get matched with electricians near you.</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
+                                        <button style="background: #4285F4; color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">Visit Website</button>
                                     </div>
 
                                     <div style="background: white; border-radius: 16px; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
@@ -1458,7 +1458,7 @@ Creator Monetization
                                         <div style="font-size: 11px; color: #70757a; margin-bottom: 4px;">answerpedia.co/energy_audit</div>
                                         <div style="font-size: 15px; font-weight: 600; color: #1a0dab; margin-bottom: 8px; line-height: 1.3;">Why Homes Need Energy Audits - Boost Home Energy Savings</div>
                                         <div style="font-size: 13px; color: #4d5156; line-height: 1.5; margin-bottom: 12px;">Maximize Energy Efficiency In Your Home With A Professional Audit That Finds Hidden Waste</div>
-                                        <button style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(102, 126, 234, 0.3);">Visit Website</button>
+                                        <button style="background: #4285F4; color: white; padding: 11px; border: none; border-radius: 22px; font-size: 13px; font-weight: 600; width: 100%; cursor: pointer; box-shadow: 0 2px 6px rgba(66, 133, 244, 0.3);">Visit Website</button>
                                     </div>
                                 </div>
                             </div>
