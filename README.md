@@ -1202,7 +1202,7 @@
                                     <div style="background: white; border-radius: 0; margin-top: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.1);">
                                         <div style="padding: 12px 16px;">
                                             <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-                                                <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, #f5a623, #4CAF50); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 14px;">ST</div>
+                                                <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(135deg, #f5a623, #4CAF50); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 14px;">STS</div>
                                                 <div style="flex: 1;">
                                                     <div style="font-weight: 600; font-size: 15px; color: #050505;">SolarTech Solutions</div>
                                                     <div style="font-size: 12px; color: #65676b; display: flex; align-items: center; gap: 4px;">
