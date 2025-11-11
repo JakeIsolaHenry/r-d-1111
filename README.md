@@ -1,5 +1,3 @@
-# r-d-1111
-Creator Monetization 
 <!DOCTYPE html>
 <html lang="en">
 <head>
