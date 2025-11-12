@@ -552,7 +552,7 @@
         }
 
         .visit-button.alt2 {
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
         }
 
         .visit-button.alt2:hover {
@@ -964,8 +964,8 @@
                             <div class="phone-notch"></div>
                             <div class="linktree purple">
                                 <div class="profile-pic">KD</div>
-                                <div class="username">Katy_Delma</div>
-                                <div class="bio">💼💰 | Exploring the intersection of tech and finance | Sharing insights, guides, and tools ✨</div>
+                                <div class="username" style="color: white;">Katy_Delma</div>
+                                <div class="bio" style="color: white;">💼💰 | Exploring the intersection of tech and finance | Sharing insights, guides, and tools ✨</div>
                                 <div class="social-icons">
                                     <div class="social-icon">🎵</div>
                                     <div class="social-icon">▶️</div>
@@ -1067,8 +1067,8 @@
                             <div class="phone-notch"></div>
                             <div class="linktree green">
                                 <div class="profile-pic">KD</div>
-                                <div class="username">Katy_Delma</div>
-                                <div class="bio">💼💰 | Exploring the intersection of tech and finance | Sharing insights, guides, and tools ✨</div>
+                                <div class="username" style="color: white;">Katy_Delma</div>
+                                <div class="bio" style="color: white;">💼💰 | Exploring the intersection of tech and finance | Sharing insights, guides, and tools ✨</div>
                                 <div class="social-icons">
                                     <div class="social-icon">🎵</div>
                                     <div class="social-icon">▶️</div>
